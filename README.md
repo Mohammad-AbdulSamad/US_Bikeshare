@@ -46,10 +46,10 @@ This project is a Flask-based web application for analyzing US bikeshare data. I
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/Mohammad-AbdulSamad/US_Bikeshare.git
-   cd US_Bikeshare
-   ```
+```
+git clone https://github.com/Mohammad-AbdulSamad/US_Bikeshare.git
+cd US_Bikeshare
+```
 2. Create and activate a virtual environment:
 ```
 python -m venv venv
